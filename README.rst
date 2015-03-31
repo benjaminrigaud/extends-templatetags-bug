@@ -22,3 +22,5 @@ In 1.8c1 I have:
   
   content 1
   
+  
+see https://gist.github.com/benjaminrigaud/e646f51e1a6dfe232c68
